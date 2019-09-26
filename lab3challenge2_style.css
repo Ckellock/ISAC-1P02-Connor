@@ -1,0 +1,11 @@
+body{
+  background-color: red;
+}
+#listContent{
+  color: Green;
+  font-style: italic;
+}
+.liststyle{
+font-size: 30px;
+ display: inline;
+}
