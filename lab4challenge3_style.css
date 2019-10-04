@@ -1,7 +1,7 @@
 .greenBox{
-  width: 1285px;
+  width: 1610px;
   border: 4px solid green;
-  padding: 10px 5% 5px 10%;
+  padding: 15px 5% 5px 10%;
   margin: 30px 5% 10px 0%;
   background-color: green;
 }
@@ -29,7 +29,7 @@
 .purpleText{
   color: purple;
   margin-left: -6%;
-  margin-bottom: -1%;
+  margin-bottom: 0%;
 }
 
 .whiteMargin{
