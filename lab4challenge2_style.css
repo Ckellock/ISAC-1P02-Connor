@@ -1,0 +1,40 @@
+.purpleDotted{
+  margin: 20px 2% 10px 2%;
+  border: purple 3px dotted;
+  padding-top: 150px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+}
+.bottomText{
+  text-align: center;
+}
+
+.greenLine{
+  text-align: center;
+  color: green;
+  font-size: small;
+}
+
+.moreText{
+  font-size: larger;
+  color: orange;
+}
+
+.super{
+  vertical-align: super;
+  color: red;
+}
+
+.smallText{
+  text-align: right;
+  color: purple;
+  font-size: small;
+}
+
+.yellowText{
+  color: yellow;
+}
+ p{
+   font-family: "arial",serif;
+ }
