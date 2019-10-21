@@ -1,0 +1,55 @@
+.rickAstley{
+  color: yellow;
+  font-style: italic;
+  position:fixed;
+  padding-left: 650px;
+  z-index: 1;
+}
+
+
+.link{
+font-size:small;
+}
+.headertwo{
+  text-transform: capitalize;
+}
+.blackBox{
+  border: black 4px solid;
+  margin: 15% 10% 100px 10%;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  color: red;
+}
+h2,p{
+  color:white;
+  font-family: "Courier", courier, Times, serif;
+}
+
+#wrapper{
+  background-color: red;
+  width: 1200px;
+  height: 1000px;
+  margin-left: 10px;
+  padding-left: 5%;
+  font-size: large;
+}
+ul{
+  font-size: small;
+  color: white;
+  position: relative;
+}
+#footer{
+  background-color: blue;
+  width: 1295px;
+  height: 100px;
+  margin-left: 10px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 5%;
+}
+#picture2{
+ position:absolute;
+ width: 750px;
+}
