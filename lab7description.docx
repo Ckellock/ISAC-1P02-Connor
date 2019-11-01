@@ -1,0 +1,119 @@
+Rationale: Upon first glance of the website, the amount of colours is distracting, and the brick wall background of the entire website does not give a good colour contrast to any of the coloured texts throughout the page. The “click here” for booking reservations is quite small and is located to the left of the website, and could be easily missed because it’s in plain white colouring. Under the “Menus” tab, we have the draft beer menu being underlined, but every subsequent menu is not. The “Kinder Menu” is paired with the “Dessert” menu (it may be separate menus altogether, or just simply “Kinder Menu Dessert”, but the design is confusing). Under the same Menu header, we have the “Live Music”, “Reviews”, “Address” and “Grilling BBB Bratwurst at home” headers/links. These are all under the “Menus” header which confuses the users of the website, and it should not be positioned in proximity to the other menus, perhaps it should be in a separate tab or under a different header. The image on the right side of the website contains a “Facebook” and “Twitter” logo, but since they are very small and in a highly detailed photo they could be missed easily. The “Closed for the summer” header is toward the right and has a white box around it, making it look unappealing, and out of the way. It should be placed in the middle and should give a colour contrast that would make it one of the first things you see when you open the page. By placing it in an area of appeal, such as the top-middle of the page it could minimize problems.
+
+Wireframe Link: https://wireframe.cc/lWcNKr
+
+Item #1:
+Description: Header 1: Title, header 2: Address, header 3: “Closed for the summer”
+Font: Fontleroy Brown NF; Large (30px, 23px, 26px)
+Color: Black
+Alignment: Center
+Media: N/A
+Interactivity: None
+
+Item #2:
+Description: Reviews
+Font: Fontleroy Brown NF (19px)
+Color: Black
+Alignment: Left
+Media: N/A
+Interactivity: Click to view reviews
+
+Item #3:
+Description: List of Menus
+Font: Fontleroy Brown NF (13px), Underlined
+Color: Black
+Alignment: Center
+Media: N/A
+Interactivity: Click for link
+
+Item #4:
+Description: Media/Misc
+Font: Fontleroy Brown NF (15px)
+Colour: Black
+Alignment: Right
+Media: None
+Interactivity: Brings up relevant media when clicked (Oktoberfest 2012,etc)
+
+Item #5:
+Description: Reservation Header
+Font: Fontleroy Brown NF (24px), Underlined
+Color: Black
+Alignment: Bottom Center
+Media: N/A
+Interactivity: Click to open
+
+Item #6:
+Description: Social Media sites
+Font: Fontleroy Brown NF
+Color: Black
+Alignment: Left
+Media: Links to the restaurant’s facebook and twitter
+Interactivity: Click to bring up the facebook/twitter pages
+
+Item #7:
+Description: About
+Font: Fontleroy Brown NF, Underlined (13px)
+Color: Black
+Alignment: Left
+Media:
+Interactivity: Click to bring the user to the about page detailing the restaurant’s history and ownership
+
+Rationale: Upon first glance of the website, the amount of colours is distracting, and the brick wall background of the entire website does not give a good colour contrast to any of the coloured texts throughout the page. The “click here” for booking reservations is quite small and is located to the left of the website, and could be easily missed because it’s in plain white colouring. Under the “Menus” tab, we have the draft beer menu being underlined, but every subsequent menu is not. The “Kinder Menu” is paired with the “Dessert” menu (it may be separate menus altogether, or just simply “Kinder Menu Dessert”, but the design is confusing). Under the same Menu header, we have the “Live Music”, “Reviews”, “Address” and “Grilling BBB Bratwurst at home” headers/links. These are all under the “Menus” header which confuses the users of the website, and it should not be positioned in proximity to the other menus, perhaps it should be in a separate tab or under a different header. The image on the right side of the website contains a “Facebook” and “Twitter” logo, but since they are very small and in a highly detailed photo they could be missed easily. The “Closed for the summer” header is toward the right and has a white box around it, making it look unappealing, and out of the way. It should be placed in the middle and should give a colour contrast that would make it one of the first things you see when you open the page. By placing it in an area of appeal, such as the top-middle of the page it could minimize problems.
+
+Wireframe Link: https://wireframe.cc/lWcNKr
+
+Item #1:
+Description: Header 1: Title, header 2: Address, header 3: “Closed for the summer”
+Font: Fontleroy Brown NF; Large (30px, 23px, 26px)
+Color: Black
+Alignment: Center
+Media: N/A
+Interactivity: None
+
+Item #2:
+Description: Reviews
+Font: Fontleroy Brown NF (19px)
+Color: Black
+Alignment: Left
+Media: N/A
+Interactivity: Click to view reviews
+
+Item #3:
+Description: List of Menus
+Font: Fontleroy Brown NF (13px), Underlined
+Color: Black
+Alignment: Center
+Media: N/A
+Interactivity: Click for link
+
+Item #4:
+Description: Media/Misc
+Font: Fontleroy Brown NF (15px)
+Colour: Black
+Alignment: Right
+Media: None
+Interactivity: Brings up relevant media when clicked (Oktoberfest 2012,etc)
+
+Item #5:
+Description: Reservation Header
+Font: Fontleroy Brown NF (24px), Underlined
+Color: Black
+Alignment: Bottom Center
+Media: N/A
+Interactivity: Click to open
+
+Item #6:
+Description: Social Media sites
+Font: Fontleroy Brown NF
+Color: Black
+Alignment: Left
+Media: Links to the restaurant’s facebook and twitter
+Interactivity: Click to bring up the facebook/twitter pages
+
+Item #7:
+Description: About
+Font: Fontleroy Brown NF, Underlined (13px)
+Color: Black
+Alignment: Left
+Media:
+Interactivity: Click to bring the user to the about page detailing the restaurant’s history and ownership
