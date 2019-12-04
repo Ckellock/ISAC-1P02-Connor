@@ -1,0 +1,227 @@
+body{
+  font-family: "Times New Roman", "serif";
+}
+#wrapper{
+    width: 1500px;
+    height: 2900px;
+    margin: 0 auto;
+    background-color: grey;
+}
+
+#header{
+ width: 900px;
+ height: 250px;
+ margin: 0 auto;
+ background-color: white;
+ padding-bottom: 20px;
+ border: 4px solid black;
+}
+#estHeader{
+  text-align: center;
+}
+.menuheader{
+  text-align: center;
+}
+
+
+.basicInfo{
+  font-size: 30px;
+  text-align: center;
+  font-size: large;
+
+}
+
+.infoParagraph{
+  padding-left: 1%;
+  font-size: 20px;
+}
+/* hover.css reference */
+@-webkit-keyframes hvr-pulse-grow {
+  to {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+}
+@keyframes hvr-pulse-grow {
+  to {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+}
+.hvr-pulse-grow {
+  text-align: center;
+  padding-left: 30%;
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+.hvr-pulse-grow:hover, .hvr-pulse-grow:focus, .hvr-pulse-grow:active {
+  -webkit-animation-name: hvr-pulse-grow;
+  animation-name: hvr-pulse-grow;
+  -webkit-animation-duration: 0.3s;
+  animation-duration: 0.3s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+  animation-direction: alternate;
+}
+#navigation{
+  width: 400px;
+  height: 250px;
+
+  background-color: white;
+  padding-top: 20px;
+  padding-left: 10%;
+  margin-top: 10px;
+  margin-left: 32%;
+  border: 4px solid black;
+}
+.homePage {
+  font-size: large;
+  font-size: 25px;
+  margin-right: 10%;
+  padding-right: 45%;
+  float:left;
+  display: inline-block;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+  }
+  .homePage:hover, .homePage:focus, .homePage:active {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+.aboutMe{
+  font-size: large;
+  font-size: 25px;
+  margin-right: 10%;
+  padding-right: 40%;
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
+.aboutMe:hover, .aboutMe:focus, .aboutMe:active {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.portfolioPage{
+  font-size: large;
+  font-size: 25px;
+  display: inline-block;
+  vertical-align: middle;
+
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
+.portfolioPage:hover, .portfolioPage:focus, .portfolioPage:active {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+#centerbox{
+  width: 1000px;
+  height: 2000px;
+
+  background-color: white;
+  padding-top: 20px;
+  margin-top: 10px;
+  margin-left: 17%;
+  border: 4px solid black;
+}
+#firstexample{
+ width: 300px;
+ height: 300px;
+ border: 4px solid black;
+ margin-left: 10px;
+ margin-top: 4%;
+}
+#secondexample{
+  width: 300px;
+  height: 300px;
+  border: 4px solid black;
+  margin-left: 10px;
+  margin-top: 4%;
+}
+#thirdexample{
+  width: 300px;
+  height: 300px;
+  border: 4px solid black;
+  margin-left: 10px;
+  margin-top: 4%;
+}
+#header1{
+   text-align: center;
+   font-size: 45px;
+   padding-top: 50px;
+}
+
+#header2{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 40px;
+    padding-left: 39%;
+ }
+
+#portfolioHeader{
+  text-align: center;
+}
+.portfolioText{
+  padding-left: 1%;
+  font-size: 20px;
+}
+#footer{
+  width: 400px;
+  height: 100px;
+  text-align: center;
+  background-color: white;
+  padding-top: 10px;
+
+  margin-top: 70px;
+  margin-left: 31%;
+  border: 4px solid black;
+
+}
+.thankYou{
+  padding-left: 1%;
+}
+
+.portfolioSamples{
+  padding-left: 1%;
+  font-size: 20px;
+}
+.firstSong{
+padding-left: 35%;
+width: 300px;
+height: 200px;
+
+}
+.secondSong{
+  float:right;
+  padding-right: 5%;
+}
+.gamerGas{
+  padding-left: 25%;
+  width: 500px;
+  height: 300px;
+}
+.poem{
+  text-align: center;
+}
